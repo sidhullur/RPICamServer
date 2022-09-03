@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "coroutine": "cpp",
+        "xmemory": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "random": "cpp"
+    }
+}
