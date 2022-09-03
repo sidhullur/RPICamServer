@@ -1,0 +1,9 @@
+C:/Users/Siddhant Hullur/Documents/server/build/CMakeFiles/Experimental.dir
+C:/Users/Siddhant Hullur/Documents/server/build/CMakeFiles/Nightly.dir
+C:/Users/Siddhant Hullur/Documents/server/build/CMakeFiles/Continuous.dir
+C:/Users/Siddhant Hullur/Documents/server/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Siddhant Hullur/Documents/server/build/CMakeFiles/server.dir
+C:/Users/Siddhant Hullur/Documents/server/build/CMakeFiles/PACKAGE.dir
+C:/Users/Siddhant Hullur/Documents/server/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Siddhant Hullur/Documents/server/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Siddhant Hullur/Documents/server/build/CMakeFiles/ZERO_CHECK.dir

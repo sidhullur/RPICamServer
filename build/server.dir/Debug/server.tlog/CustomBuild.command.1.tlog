@@ -1,0 +1,10 @@
+^C:\USERS\SIDDHANT HULLUR\DOCUMENTS\SERVER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Siddhant Hullur/Documents/server" "-BC:/Users/Siddhant Hullur/Documents/server/build" --check-stamp-file "C:/Users/Siddhant Hullur/Documents/server/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
