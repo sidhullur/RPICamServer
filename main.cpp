@@ -107,7 +107,6 @@ int main(int argc, char *argv[])
     size_t imgSize = 640*480*3;
     int bytes;
     int ptr = 0;
-    // Receive until the peer shuts down the connection
     img = Mat::zeros(480, 640, CV_8UC3);
     do {
 
